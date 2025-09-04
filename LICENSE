@@ -1,0 +1,94 @@
+MIT License
+
+Copyright (c) 2025 Tarang Kishor
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Data Usage and Attribution
+
+This project uses vaccination and health data from various international organizations:
+
+### Data Sources:
+- World Health Organization (WHO) - Vaccination coverage data
+- UNICEF - Disease surveillance and reporting data  
+- Gavi Alliance - Vaccine introduction information
+- Various national health ministries and agencies
+
+### Data Usage Terms:
+1. **Educational and Research Use**: This project is intended for educational, 
+   research, and non-commercial purposes.
+
+2. **Attribution Required**: When using this analysis or derivatives, please 
+   provide appropriate attribution to both this project and the original data sources.
+
+3. **Data Accuracy**: While every effort has been made to ensure data accuracy, 
+   users should verify critical information with original sources.
+
+4. **No Medical Advice**: This analysis is for informational purposes only and 
+   should not be used as medical advice or for clinical decision-making.
+
+### Recommended Citation:
+```
+Tarang Kishor. (2025). Global Vaccination Data Analysis Project. 
+Available at: [GitHub Repository URL]
+Data sources: WHO, UNICEF, Gavi Alliance, and national health agencies.
+```
+
+### Contact for Data Issues:
+For questions about data usage, methodology, or to report issues:
+- Create an issue in the GitHub repository
+- Contact the project maintainer directly
+
+---
+
+## Third-Party Libraries and Dependencies
+
+This project uses several open-source libraries, each with their own licenses:
+
+- **pandas**: BSD 3-Clause License
+- **numpy**: BSD 3-Clause License  
+- **matplotlib**: PSF-based License
+- **seaborn**: BSD 3-Clause License
+- **plotly**: MIT License
+- **openpyxl**: MIT License
+- **sqlite3**: Public Domain
+
+For complete license information of dependencies, please refer to their 
+respective documentation and license files.
+
+---
+
+## Disclaimer
+
+THE SOFTWARE AND ANALYSIS PROVIDED IN THIS PROJECT ARE FOR INFORMATIONAL 
+PURPOSES ONLY. THE AUTHORS AND CONTRIBUTORS MAKE NO REPRESENTATIONS OR 
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ABOUT THE COMPLETENESS, ACCURACY, 
+RELIABILITY, SUITABILITY, OR AVAILABILITY OF THE INFORMATION, SOFTWARE, OR 
+RELATED GRAPHICS CONTAINED IN THIS PROJECT.
+
+ANY RELIANCE YOU PLACE ON SUCH INFORMATION IS STRICTLY AT YOUR OWN RISK. 
+IN NO EVENT WILL THE AUTHORS OR CONTRIBUTORS BE LIABLE FOR ANY LOSS OR DAMAGE 
+INCLUDING, WITHOUT LIMITATION, INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGE, OR 
+ANY LOSS OR DAMAGE WHATSOEVER ARISING FROM LOSS OF DATA OR PROFITS ARISING 
+OUT OF, OR IN CONNECTION WITH, THE USE OF THIS PROJECT.
+
+For medical or public health decisions, always consult with qualified 
+healthcare professionals and refer to official health organization guidelines.
